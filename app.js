@@ -8,12 +8,10 @@ var cors = require('cors');
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 
-var db = require('knex') ({
-  client: 'sqlite3',
-  connection: {
-    filename: "./tft.db"
-  }
-});
+var dbUrl = "mongodb+srv://admin:123@cluster0-xc2vs.mongodb.net/champions?authMechanism=SCRAM-SHA-1";
+const db = require('monk')(dbUrl);
+
+const champions = db.get('champions');
 
 var app = express();
 
@@ -30,9 +28,9 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use(cors());
 
 app.get('/api/tft/champions', function (req, res){
-  db.select().from("champions")
+  champions.find({})
       .then(function (data){
-        res.json(data);
+        res.json({champions: data});
       }).catch(function (error){
     console.log(error);
   });
@@ -41,7 +39,7 @@ app.get('/api/tft/champions', function (req, res){
 app.get('/api/tft/champions/:id', function (req, res){
   var id = parseInt(req.params.id);
 
-  db.select().from("champions").where("id", id)
+  champions.find({"id": id})
       .then(function (data){
         res.json(data);
       }).catch(function (error){
