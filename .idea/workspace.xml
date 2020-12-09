@@ -17,9 +17,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.16.2" />
     <property name="javascript.nodejs.core.library.typings.version" value="12.19.8" />
+    <property name="last_opened_file_path" value="F:/wiiu/games/node-v15.4.0-win-x64/node.exe" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="settings.editor.selected.configurable" value="ics" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -35,7 +36,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607526538211</updated>
-      <workItem from="1607526539305" duration="6343000" />
+      <workItem from="1607526539305" duration="7358000" />
     </task>
     <servers />
   </component>
@@ -43,29 +44,33 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1220" y="278" key="FileChooserDialogImpl" timestamp="1607528411384">
+    <state x="828" y="178" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607541337955">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1220" y="278" key="FileChooserDialogImpl/0.0.1920.1040/1920.148.1366.728@0.0.1920.1040" timestamp="1607528411384" />
-    <state width="936" height="275" key="GridCell.Tab.0.bottom" timestamp="1607540629769">
+    <state x="828" y="178" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.148.1366.728@0.0.1920.1040" timestamp="1607541337955" />
+    <state x="1220" y="278" key="FileChooserDialogImpl" timestamp="1607541334745">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.148.1366.728@0.0.1920.1040" timestamp="1607540629769" />
-    <state width="936" height="275" key="GridCell.Tab.0.center" timestamp="1607540629769">
+    <state x="1220" y="278" key="FileChooserDialogImpl/0.0.1920.1040/1920.148.1366.728@0.0.1920.1040" timestamp="1607541334745" />
+    <state width="936" height="275" key="GridCell.Tab.0.bottom" timestamp="1607541351051">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="275" key="GridCell.Tab.0.center/0.0.1920.1040/1920.148.1366.728@0.0.1920.1040" timestamp="1607540629769" />
-    <state width="936" height="275" key="GridCell.Tab.0.left" timestamp="1607540629769">
+    <state width="936" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.148.1366.728@0.0.1920.1040" timestamp="1607541351051" />
+    <state width="936" height="275" key="GridCell.Tab.0.center" timestamp="1607541351051">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="275" key="GridCell.Tab.0.left/0.0.1920.1040/1920.148.1366.728@0.0.1920.1040" timestamp="1607540629769" />
-    <state width="936" height="275" key="GridCell.Tab.0.right" timestamp="1607540629769">
+    <state width="936" height="275" key="GridCell.Tab.0.center/0.0.1920.1040/1920.148.1366.728@0.0.1920.1040" timestamp="1607541351051" />
+    <state width="936" height="275" key="GridCell.Tab.0.left" timestamp="1607541351050">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="275" key="GridCell.Tab.0.right/0.0.1920.1040/1920.148.1366.728@0.0.1920.1040" timestamp="1607540629769" />
-    <state x="461" y="165" key="SettingsEditor" timestamp="1607536136762">
+    <state width="936" height="275" key="GridCell.Tab.0.left/0.0.1920.1040/1920.148.1366.728@0.0.1920.1040" timestamp="1607541351050" />
+    <state width="936" height="275" key="GridCell.Tab.0.right" timestamp="1607541351051">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.148.1366.728@0.0.1920.1040" timestamp="1607536136762" />
+    <state width="936" height="275" key="GridCell.Tab.0.right/0.0.1920.1040/1920.148.1366.728@0.0.1920.1040" timestamp="1607541351051" />
+    <state x="897" y="88" key="SettingsEditor" timestamp="1607541455059">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="897" y="88" key="SettingsEditor/0.0.1920.1040/1920.148.1366.728@0.0.1920.1040" timestamp="1607541455059" />
   </component>
 </project>
